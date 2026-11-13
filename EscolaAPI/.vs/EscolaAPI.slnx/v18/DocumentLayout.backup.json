@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\52383977802\\desktop\\senaic#\\api\\escolaapi\\escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\52383977802\\desktop\\senaic#\\api\\escolaapi\\escolaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\52383977802\\desktop\\senaic#\\api\\escolaapi\\escolaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\52383977802\\desktop\\senaic#\\api\\escolaapi\\escolaapi\\contexts\\escolacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\contexts\\escolacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\52383977802\\desktop\\senaic#\\api\\escolaapi\\escolaapi\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\52383977802\\desktop\\senaic#\\api\\escolaapi\\escolaapi\\models\\especialidadeprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\models\\especialidadeprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\52383977802\\desktop\\senaic#\\api\\escolaapi\\escolaapi\\escolaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\escolaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EscolaAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\appsettings.Development.json",
+              "RelativeToolTip": "EscolaAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-05T22:58:12.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EscolaContext.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\Contexts\\EscolaContext.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Contexts\\EscolaContext.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\Contexts\\EscolaContext.cs",
+              "RelativeToolTip": "EscolaAPI\\Contexts\\EscolaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:09:56.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\Program.cs",
+              "RelativeToolTip": "EscolaAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:05:36.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EscolaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\appsettings.json",
+              "RelativeToolTip": "EscolaAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-05T22:57:47.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\Models\\Professor.cs",
+              "RelativeToolTip": "EscolaAPI\\Models\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:52:16.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EspecialidadeProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\Models\\EspecialidadeProfessor.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Models\\EspecialidadeProfessor.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\Models\\EspecialidadeProfessor.cs",
+              "RelativeToolTip": "EscolaAPI\\Models\\EspecialidadeProfessor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:50:12.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EscolaAPI",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
+              "RelativeDocumentMoniker": "EscolaAPI\\EscolaAPI.csproj",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
+              "RelativeToolTip": "EscolaAPI\\EscolaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-05T22:11:32.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
