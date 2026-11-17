@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "EscolaAPI\\Program.cs",
               "ToolTip": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\Program.cs",
               "RelativeToolTip": "EscolaAPI\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T23:23:27.061Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "EscolaAPI\\Models\\Curso.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvwUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T22:49:15.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T22:49:15.507Z"
             },
             {
               "$type": "Document",
@@ -64,12 +63,7 @@
               "RelativeToolTip": "EscolaAPI\\Repositories\\CursoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T22:56:14.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+              "WhenOpened": "2026-11-12T22:56:14.508Z"
             },
             {
               "$type": "Document",
@@ -81,8 +75,7 @@
               "RelativeToolTip": "EscolaAPI\\Interfaces\\ICursoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T22:42:46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T22:42:46Z"
             }
           ]
         }

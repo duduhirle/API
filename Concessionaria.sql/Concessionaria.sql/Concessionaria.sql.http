@@ -1,0 +1,6 @@
+@Concessionaria.sql_HostAddress = http://localhost:5008
+
+GET {{Concessionaria.sql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
