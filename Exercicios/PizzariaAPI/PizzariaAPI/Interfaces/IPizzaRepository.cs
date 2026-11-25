@@ -2,16 +2,13 @@
 // Interface é um contrato: só diz QUE o método existe, sem implementar (sem corpo { }).
 namespace PizzariaAPI.Interfaces
 {
-    public interface IPizzaRepository
-    {
-        object? ListarTodos();
-
+ 
         /*
-public interface - É um contrato: só diz QUE o método existe,
-sem implementar (sem corpo { }).
+         public interface - É um contrato: só diz QUE o método existe,
+        sem implementar (sem corpo { }).
 
-List<Pizza>      - devolve uma lista de Pizza.
-*/
+         List<Pizza>      - devolve uma lista de Pizza.
+        */
         public interface IPizzaRepository
         {
             // R - Read: devolve todas as pizzas.
@@ -22,9 +19,15 @@ List<Pizza>      - devolve uma lista de Pizza.
 
             // C - Create: cadastra uma pizza nova.
             void Cadastrar(Pizza pizza);
-        }
+
+            void Atualizar(int id, Pizza pizza);
+
+            void Deletar(int id);
+
+    }
 
 
 
     }
-}
+
+

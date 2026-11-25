@@ -1,20 +1,81 @@
 [
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_1",
-    "RelativePath": "api/pizzas",
+    "ContainingType": "PizzariaAPI.Controllers.PizzaController",
+    "Method": "ListarTodos",
+    "RelativePath": "api/Pizza",
     "HttpMethod": "GET",
-    "IsController": false,
+    "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PizzariaAPI.Controllers.PizzaController",
+    "Method": "Cadastrar",
+    "RelativePath": "api/Pizza",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[PizzariaAPI.Models.Pizza, PizzariaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "application/json"
-        ],
-        "StatusCode": 200
+        "Name": "pizza",
+        "Type": "PizzariaAPI.Models.Pizza",
+        "IsRequired": true
       }
-    ]
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PizzariaAPI.Controllers.PizzaController",
+    "Method": "Atualizar",
+    "RelativePath": "api/Pizza/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pizza",
+        "Type": "PizzariaAPI.Models.Pizza",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PizzariaAPI.Controllers.PizzaController",
+    "Method": "Deletar",
+    "RelativePath": "api/Pizza/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PizzariaAPI.Controllers.PizzaController",
+    "Method": "BuscarPorID",
+    "RelativePath": "api/Pizza/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

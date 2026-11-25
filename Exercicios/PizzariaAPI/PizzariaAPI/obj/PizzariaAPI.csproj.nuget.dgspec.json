@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\CursoC#\\API\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj": {}
+    "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\CursoC#\\API\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj": {
+    "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\CursoC#\\API\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj",
         "projectName": "PizzariaAPI",
-        "projectPath": "C:\\Users\\PC\\Desktop\\CursoC#\\API\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\CursoC#\\API\\PizzariaAPI\\PizzariaAPI\\obj\\",
+        "projectPath": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj",
+        "packagesPath": "C:\\Users\\52383977802\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\52383977802\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,6 +53,10 @@
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[10.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[10.0.15, )"
             },

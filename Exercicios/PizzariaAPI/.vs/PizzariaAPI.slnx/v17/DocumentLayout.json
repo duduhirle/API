@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|c:\\users\\52383977802\\desktop\\api\\api\\exercicios\\pizzariaapi\\pizzariaapi\\pizzariaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|solutionrelative:pizzariaapi\\pizzariaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|c:\\users\\52383977802\\desktop\\api\\api\\exercicios\\pizzariaapi\\pizzariaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|solutionrelative:pizzariaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|c:\\users\\52383977802\\desktop\\api\\api\\exercicios\\pizzariaapi\\pizzariaapi\\pizzariaapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|solutionrelative:pizzariaapi\\pizzariaapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|c:\\users\\52383977802\\desktop\\api\\api\\exercicios\\pizzariaapi\\pizzariaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|solutionrelative:pizzariaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.321\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|c:\\users\\52383977802\\desktop\\api\\api\\exercicios\\pizzariaapi\\pizzariaapi\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|solutionrelative:pizzariaapi\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|c:\\users\\52383977802\\desktop\\api\\api\\exercicios\\pizzariaapi\\pizzariaapi\\repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|solutionrelative:pizzariaapi\\repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|c:\\users\\52383977802\\desktop\\api\\api\\exercicios\\pizzariaapi\\pizzariaapi\\interfaces\\ipizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65DF759-7FC9-FCA8-B22D-9DE73CEE6916}|PizzariaAPI\\PizzariaAPI.csproj|solutionrelative:pizzariaapi\\interfaces\\ipizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PizzariaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\appsettings.json",
+              "RelativeToolTip": "PizzariaAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-25T18:14:50.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PizzariaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\Program.cs",
+              "RelativeToolTip": "PizzariaAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:14:22.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzariaAPI",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj",
+              "RelativeDocumentMoniker": "PizzariaAPI\\PizzariaAPI.csproj",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj",
+              "RelativeToolTip": "PizzariaAPI\\PizzariaAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T18:11:57.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.321\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.321\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.321\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.321\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAJsAAAAAAAAAAIAwwKoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-11-25T18:09:18.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\Repositories\\PizzaRepository.cs",
+              "RelativeDocumentMoniker": "PizzariaAPI\\Repositories\\PizzaRepository.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\Repositories\\PizzaRepository.cs",
+              "RelativeToolTip": "PizzariaAPI\\Repositories\\PizzaRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:08:11.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "PizzariaAPI\\Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "PizzariaAPI\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:07:27.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzariaAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj",
+              "RelativeDocumentMoniker": "PizzariaAPI\\PizzariaAPI.csproj",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\PizzariaAPI.csproj",
+              "RelativeToolTip": "PizzariaAPI\\PizzariaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T18:07:07.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\Interfaces\\IPizzaRepository.cs",
+              "RelativeDocumentMoniker": "PizzariaAPI\\Interfaces\\IPizzaRepository.cs",
+              "ToolTip": "C:\\Users\\52383977802\\Desktop\\API\\API\\Exercicios\\PizzariaAPI\\PizzariaAPI\\Interfaces\\IPizzaRepository.cs",
+              "RelativeToolTip": "PizzariaAPI\\Interfaces\\IPizzaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:08:45.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

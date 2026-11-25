@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj": {}
+    "C:\\Users\\52383977802\\Desktop\\API\\API\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj": {
+    "C:\\Users\\52383977802\\Desktop\\API\\API\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\52383977802\\Desktop\\API\\API\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
         "projectName": "EscolaAPI",
-        "projectPath": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
+        "projectPath": "C:\\Users\\52383977802\\Desktop\\API\\API\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
         "packagesPath": "C:\\Users\\52383977802\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\52383977802\\Desktop\\SenaiC#\\API\\EscolaAPI\\EscolaAPI\\obj\\",
+        "outputPath": "C:\\Users\\52383977802\\Desktop\\API\\API\\EscolaAPI\\EscolaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "11.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
